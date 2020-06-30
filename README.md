@@ -41,6 +41,10 @@ Licensed under Awesome Coding L.L.C. (not a real company)
 5. removed unneccessary </img>
 6. removed redundant id
 
+## Troubleshooting
+
+Contact James Rowe for any issues
+
 ## Acknowledgments
 
 Ben Wright
