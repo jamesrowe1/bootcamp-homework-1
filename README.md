@@ -1,6 +1,7 @@
 # Homework1
 
-Project Title
+## Project Title
+
 This is the 1st Homework Assignment for the Columbia Coding Bootcamp. It is about using Semantic Tags to make a page more readable
 
 ## Getting Started
