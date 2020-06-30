@@ -20,10 +20,12 @@ Hosted by Github
 ## Authors
 
 James Rowe
+Horiseon Social Solution Services Inc.
 
 ## License
 
-Licensed under Awesome Coding L.L.C. (not a real company)
+Licensed under 2019 Horiseon Social Solution Services Inc.
+Also Awesome Coding L.L.C. (not a real company)
 
 ## Changelog
 
