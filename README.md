@@ -50,10 +50,10 @@ Contact James Rowe for any issues
 
 ## Acknowledgments
 
-*Ben Wright
-*Justin Simero
-*And my study group:
-*Justin Ramirez
-*Michael Haber
-*Gabriel Hernandez
-*Tiffany Lombardi
+- Ben Wright
+- Justin Simero
+- And my study group:
+- Justin Ramirez
+- Michael Haber
+- Gabriel Hernandez
+- Tiffany Lombardi
