@@ -3,24 +3,29 @@
 Project Title
 This is the 1st Homework Assignment for the Columbia Coding Bootcamp. It is about using Semantic Tags to make a page more readable
 
-Getting Started
+## Getting Started
+
 Simply scroll around the page. You may click the links, but they don't go anywhere.
 
-Prerequisites
+## Prerequisites
+
 You must have a working web browser.
 
-Built With
+## Built With
+
 Visual Studio Code
 Chrome (especially the inspector)
 Hosted by Github
 
-Authors
+## Authors
+
 James Rowe
 
-License
+## License
+
 Licensed under Awesome Coding L.L.C. (not a real company)
 
-Changelog
+## Changelog
 
 1. Any div that would be able to be changed to a semantic tag was changed. The following tags were used:
    a. header
@@ -36,7 +41,8 @@ Changelog
 5. removed unneccessary </img>
 6. removed redundant id
 
-Acknowledgments
+## Acknowledgments
+
 Ben Wright
 Justin Simero
 And my study group:
