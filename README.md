@@ -20,15 +20,7 @@ James Rowe
 License
 Licensed under Awesome Coding L.L.C. (not a real company)
 
-Acknowledgments
-Ben Wright
-Justin Simero
-And my study group:
-Justin Ramirez
-Michael Haber
-Gabriel Hernandez
-Tiffany Lombardi
-Melissa Mercado
+Changelog
 
 1. Any div that would be able to be changed to a semantic tag was changed. The following tags were used:
    a. header
@@ -38,13 +30,17 @@ Melissa Mercado
    e. section
    f. aside
    g. footer
-
 2. All CSS elements were reordered to make logical sense
-
 3. Images had alt elements added
-
 4. Title was given descriptive concise title
-
 5. removed unneccessary </img>
-
 6. removed redundant id
+
+Acknowledgments
+Ben Wright
+Justin Simero
+And my study group:
+Justin Ramirez
+Michael Haber
+Gabriel Hernandez
+Tiffany Lombardi
